@@ -11,3 +11,8 @@ Esta é minha primeira página desenvolvida na disciplina Programação Web.
 - HTML
 - Git
 - GitHub
+
+
+## Captura de tela
+
+![Minha primeira página Web](IMG_20261012_152111.png)
